@@ -14,3 +14,4 @@ This project focus on creating an AI-based ASL-to-text translator using AlexNet 
 
 **/Kaggle** - A directory to download the Kaggle dataset directly
 
+**link to yolo weight**: https://drive.google.com/file/d/1axIIOKUTbPiTSabrjEr7w5KObpITgwii/view?usp=sharing
