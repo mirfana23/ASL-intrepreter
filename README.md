@@ -15,4 +15,5 @@ This project focuses on creating an AI-based ASL-to-text translator using AlexNe
 **Link to yolo weights**: https://drive.google.com/file/d/1axIIOKUTbPiTSabrjEr7w5KObpITgwii/view?usp=sharing
 
 **Link to best AlexNet weights**: https://drive.google.com/file/d/17FTTeXbEJo4iT1PaI3BZX9zqscU4Oyh2/view?usp=sharing
+
 **Link to YOLO traning files**: https://drive.google.com/file/d/16z-LfQc5pMtefcHIevp1AT4yO1bbBx0A/view?usp=sharing
