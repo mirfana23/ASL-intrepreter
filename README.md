@@ -6,11 +6,9 @@ This project focuses on creating an AI-based ASL-to-text translator using AlexNe
 
 **Gesture2Eng.ipynb** - The main notebook where all the coding and process happens
 
-**Hello ASL vid.mp4** - A sample video for the ASL
+**Hello ASL vid.mp4 & COLAB.mp4** - Two sample videos for the ASL
 
-**yolov3_custom_**** - The weight for YOLO hand detector
-
-**/images** - The resulting parsed image from video "Hello ASL Vid" and its cropped counterpart
+**/images & /images2** - The resulting parsed images from video "Hello ASL Vid" and "COLAB" respectively and their cropped counterpart
 
 **/Kaggle** - A directory to download the Kaggle dataset directly
 
