@@ -8,6 +8,8 @@ This project focuses on creating an AI-based ASL-to-text translator using AlexNe
 
 **Hello ASL vid.mp4 & COLAB.mp4** - Two sample videos for the ASL
 
+**sample_img.jpg, safari_2.jpg & sample_img_cropped.jpg & safari_2_cropped.jpg** - Two sample images and their cropped results for image input to the YOLO + AlexNet model
+
 **/images & /images2** - The resulting parsed images from video "Hello ASL Vid" and "COLAB" respectively and their cropped counterpart
 
 **/Kaggle** - A directory to download the Kaggle dataset directly
