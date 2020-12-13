@@ -1,8 +1,8 @@
 # Gesture2English - An ASL-to-text translator
 
-This project focus on creating an AI-based ASL-to-text translator using AlexNet that has been trained using more than 80,000 training image, and YOLO for the hand detection
+This project focuses on creating an AI-based ASL-to-text translator using AlexNet that has been trained using more than 80,000 training image, and YOLO for the hand detection
 
-(Note: Before running the code, make sure that root folder is set up properly and the assumed folder exist. In addition, this code is meant to be run on the google Colab, thus there may be side effects when running outside Colab)
+(Note: Before running the code, make sure that the root folder is set up properly and the assumed folder exists. In addition, this code is meant to be run on Google Colab, thus so there might be side effects when running outside Colab. The YOLO and AlexNet weights are not uploaded to this repository, and instead are attached as Google Drive links since their file sizes are too big.)
 
 **Gesture2Eng.ipynb** - The main notebook where all the coding and process happens
 
@@ -14,4 +14,6 @@ This project focus on creating an AI-based ASL-to-text translator using AlexNet 
 
 **/Kaggle** - A directory to download the Kaggle dataset directly
 
-**link to yolo weight**: https://drive.google.com/file/d/1axIIOKUTbPiTSabrjEr7w5KObpITgwii/view?usp=sharing
+**Link to yolo weights**: https://drive.google.com/file/d/1axIIOKUTbPiTSabrjEr7w5KObpITgwii/view?usp=sharing
+
+**Link to best AlexNet weights**: https://drive.google.com/file/d/17FTTeXbEJo4iT1PaI3BZX9zqscU4Oyh2/view?usp=sharing
